@@ -9,4 +9,4 @@ sattyamghumare/sattyamghumare is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <a href="https://digitalkhidki21.com">what is backlink?</a>
-<a href="https://backlinkmarketing.blogspot.com/?m=1"> backlink marketing</a>
+<a href="https://backlinkmarketing.blogspot.com/"> backlink marketing</a>
