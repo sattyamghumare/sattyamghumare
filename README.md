@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sattyamghumare
+- 👋 Hi, I’m @sattyamghumare 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -8,5 +8,5 @@
 sattyamghumare/sattyamghumare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://digitalkhidki21.com">what is backlink?</a>
-<a href="https://backlinkmarketing.blogspot.com/"> backlink marketing</a>
+<a href=" https://www.digitalkhidki21.com/">what is backlink?</a>
+<a href="tps://backlinkmarketing.blogspot.com/"> backlink marketing</a>
